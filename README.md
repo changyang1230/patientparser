@@ -64,7 +64,7 @@ pip install openai gender-guesser pyperclip
 
 3. Run the script:
 ```text
-python clipboard_patient_parser.py
+python patientparser.py
 ```
 
 4. Paste patient blocks one by one into your clipboard.
